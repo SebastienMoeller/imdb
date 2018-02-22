@@ -1,0 +1,40 @@
+"0","devtools::install_github(""rmhogervorst/coffeedata"")
+"
+"2","Downloading GitHub repo rmhogervorst/coffeedata@master
+from URL https://api.github.com/repos/rmhogervorst/coffeedata/zipball/master
+"
+"2","Installing coffeedata
+"
+"2","'/Library/Frameworks/R.framework/Resources/bin/R' --no-site-file --no-environ --no-save --no-restore --quiet  \
+  CMD INSTALL  \
+  '/private/var/folders/kl/0w5ybvjj3x1dp_cpxx01mw5h0000gn/T/RtmpmwqdNd/devtoolsa6677ac99da4/RMHogervorst-coffeedata-71e7d96'  \
+  --library='/Library/Frameworks/R.framework/Versions/3.4/Resources/library' --install-tests 
+"
+"2","
+"
+"2","* installing *source* package ‘coffeedata’ ...
+"
+"2","Warning in as.POSIXlt.POSIXct(x, tz) :"
+"2","
+  unknown timezone 'zone/tz/2017c.1.0/zoneinfo/Europe/Amsterdam'
+"
+"2","** R
+"
+"2","** data
+"
+"2","*** moving datasets to lazyload DB
+"
+"2","** inst
+"
+"2","** preparing package for lazy loading
+"
+"2","** help
+"
+"2","*** installing help indices
+"
+"2","** building package indices
+"
+"2","** testing if installed package can be loaded
+"
+"2","* DONE (coffeedata)
+"
